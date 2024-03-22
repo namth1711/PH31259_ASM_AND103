@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "780018298017",
-    "project_id": "and103-lab1-f278e",
-    "storage_bucket": "and103-lab1-f278e.appspot.com"
+    "project_number": "288501813632",
+    "project_id": "assigment-53d77",
+    "storage_bucket": "assigment-53d77.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:780018298017:android:96da8c9328d87357e094e0",
+        "mobilesdk_app_id": "1:288501813632:android:ae71562d2349056d1a7165",
         "android_client_info": {
-          "package_name": "com.duyle.lap1"
+          "package_name": "com.namth.asm1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
+          "current_key": "AIzaSyCwpyYO8Tw-yPR8oWNIqc9ZKf70_345B00"
         }
       ],
       "services": {
@@ -26,34 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:780018298017:android:1807ef13926a6136e094e0",
+        "mobilesdk_app_id": "1:288501813632:android:73ae64a11c009ede1a7165",
         "android_client_info": {
-          "package_name": "com.example.easychat"
+          "package_name": "fpoly.namth.assigment_and"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:780018298017:android:520dc6bdd889e24de094e0",
-        "android_client_info": {
-          "package_name": "com.example.thanghtph31577_and103_lab1"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCiguQ7hLDmV7uRExkATuv7CMiczutXRZs"
+          "current_key": "AIzaSyCwpyYO8Tw-yPR8oWNIqc9ZKf70_345B00"
         }
       ],
       "services": {

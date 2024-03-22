@@ -1,4 +1,4 @@
-package com.duyle.lap1.auth;
+package com.namth.asm1.auth;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.duyle.lap1.R;
-import com.duyle.lap1.ui.bt7.ListXeActivity;
+import com.namth.asm1.R;
+import com.namth.asm1.ui.asm.ListXeActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 

@@ -1,4 +1,4 @@
-package com.duyle.lap1.models;
+package com.namth.asm1.models;
 
 import java.util.List;
 

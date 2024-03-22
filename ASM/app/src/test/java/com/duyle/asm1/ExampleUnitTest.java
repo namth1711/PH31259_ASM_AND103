@@ -1,4 +1,4 @@
-package com.duyle.lap1;
+package com.duyle.asm1;
 
 import org.junit.Test;
 

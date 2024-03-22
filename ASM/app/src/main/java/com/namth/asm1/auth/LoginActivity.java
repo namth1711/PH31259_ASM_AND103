@@ -1,4 +1,4 @@
-package com.duyle.lap1.auth;
+package com.namth.asm1.auth;
 
 import static androidx.constraintlayout.helper.widget.MotionEffect.TAG;
 
@@ -14,8 +14,8 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.duyle.lap1.R;
-import com.duyle.lap1.ui.bt7.ListXeActivity;
+import com.namth.asm1.R;
+import com.namth.asm1.ui.asm.ListXeActivity;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.textfield.TextInputEditText;

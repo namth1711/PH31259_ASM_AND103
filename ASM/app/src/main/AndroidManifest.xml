@@ -14,11 +14,11 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Lap1"
+        android:theme="@style/Theme.ASM1"
         android:usesCleartextTraffic="true"
         tools:targetApi="31" >
         <activity
-            android:name=".ui.bt7.AddCar"
+            android:name=".ui.asm.AddCar"
             android:exported="false" />
         <activity
             android:name=".auth.ChoiceLoginActivity"
@@ -31,7 +31,7 @@
             android:name=".auth.LoginOtpActivity"
             android:exported="false" />
         <activity
-            android:name=".ui.bt7.ListXeActivity"
+            android:name=".ui.asm.ListXeActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

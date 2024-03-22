@@ -1,4 +1,4 @@
-package com.duyle.lap1.adapter;
+package com.namth.asm1.adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -12,9 +12,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.duyle.lap1.R;
-import com.duyle.lap1.databinding.ItemCarBinding;
-import com.duyle.lap1.models.bt7.Car;
+import com.namth.asm1.R;
+import com.namth.asm1.databinding.ItemCarBinding;
+import com.namth.asm1.models.asm.Car;
 
 import java.text.DecimalFormat;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.duyle.lap1.adapter;
+package com.namth.asm1.adapter;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -11,8 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
-import com.duyle.lap1.R;
-import com.duyle.lap1.models.City;
+import com.namth.asm1.R;
+import com.namth.asm1.models.City;
 
 import java.util.List;
 
